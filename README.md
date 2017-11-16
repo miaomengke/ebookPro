@@ -1,6 +1,7 @@
 # my-projec
 
-> A Vue.js project
+> A Vue.js project,use ele template, this project is a demo for a ebook , it's only a vue simple application not backstage supports.
+
 
 ## Build Setup
 
